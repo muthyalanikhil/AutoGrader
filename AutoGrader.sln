@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AutoGrader(1)", ".", "{D473956D-8575-4CBA-B7D7-D39F0DE52362}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53346"
+		Debug.AspNetCompiler.PhysicalPath = "..\AutoGrader\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53346\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53346"
+		Release.AspNetCompiler.PhysicalPath = "..\AutoGrader\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53346\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53346"
+		SlnRelativePath = "..\AutoGrader\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D473956D-8575-4CBA-B7D7-D39F0DE52362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D473956D-8575-4CBA-B7D7-D39F0DE52362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53F1D9F-9CA3-48BC-9D14-13796297F3D8}
+	EndGlobalSection
+EndGlobal
